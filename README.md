@@ -1,1 +1,0 @@
-https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/

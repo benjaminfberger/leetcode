@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Solution s = new();
+            Console.WriteLine(s.SmallestIndex(new int[] { 1, 2, 3 }));
         }
     }
 }
