@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/3550/">
+    <File Path="README.md" />
+    <File Path="Solution.cs" />
+  </Folder>
+  <Project Path="csharp/csharp.csproj" />
+</Solution>
