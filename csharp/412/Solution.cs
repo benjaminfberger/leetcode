@@ -1,10 +1,13 @@
 ﻿namespace csharp._412
 {
+    /// <summary>
+    /// Beats 96.25% of submissions with time complexity of O(n) and space complexity of O(n)
+    /// </summary>
     public class Solution
     {
         public IList<string> FizzBuzz(int n)
         {
-            List<string> ans = new();
+            List<string> ans = new(n);
 
             for (int i = 1; i <= n; i++)
             {
