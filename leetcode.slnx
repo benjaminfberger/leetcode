@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="csharp/csharp.csproj" />
+  <Project Path="javascript/javascript/javascript.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
