@@ -1,17 +1,20 @@
-﻿public class Solution
+﻿namespace chsharp._3350
 {
-    public int SmallestIndex(int[] nums)
+    public class Solution
     {
-        HashSet<int> vals = new();
-        for (int i = 0; i < nums.Length; i++)
+        public int SmallestIndex(int[] nums)
         {
-            string s = nums[i].ToString();
-            int total = 0;
-            foreach (char c in s)
-                total += int.Parse(c.ToString());
-            if (total == i) vals.Add(i);
+            HashSet<int> vals = new();
+            for (int i = 0; i < nums.Length; i++)
+            {
+                string s = nums[i].ToString();
+                int total = 0;
+                foreach (char c in s)
+                    total += int.Parse(c.ToString());
+                if (total == i) vals.Add(i);
+            }
+            if (vals.Count <= 0) return -1;
+            return vals.OrderBy(x => x).ToArray()[0];
         }
-        if (vals.Count <= 0) return -1;
-        return vals.OrderBy(x => x).ToArray()[0];
     }
 }

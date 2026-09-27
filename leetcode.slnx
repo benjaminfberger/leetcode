@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="csharp/csharp.csproj" />
-  <Project Path="javascript/javascript/javascript.esproj">
+  <Project Path="javascript/javascript.esproj">
     <Build />
     <Deploy />
   </Project>
