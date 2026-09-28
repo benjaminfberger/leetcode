@@ -7,6 +7,8 @@
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
+[1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
+
 [2703. Return Length of Arguments Passed](javascript/2703/README.md)
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
