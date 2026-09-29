@@ -9,6 +9,8 @@
 
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
 
+[1700. Number of Students Unable to Eat Lunch](csharp/1700/README.md)
+
 [2703. Return Length of Arguments Passed](javascript/2703/README.md)
 
 [2769. Find the Maximum Achievable Number](csharp/2769/README.md)
