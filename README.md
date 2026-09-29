@@ -13,6 +13,8 @@
 
 [2769. Find the Maximum Achievable Number](csharp/2769/README.md)
 
+[3110. Score of a String](csharp/3110/README.md)
+
 [3498. Reverse Degree of a String](csharp/3498/README.md)
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
