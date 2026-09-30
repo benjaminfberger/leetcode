@@ -20,3 +20,5 @@
 [3498. Reverse Degree of a String](csharp/3498/README.md)
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
+
+[3925. Concatenate Array With Reverse](csharp/3925/README.md)
