@@ -3,6 +3,8 @@
 
 [13. Roman to Integer](chsarp/13/README.md)
 
+[20. Valid Parentheses](csharp/20/README.md)
+
 [412. Fizz Buzz](csharp/412/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
