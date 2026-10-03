@@ -5,6 +5,8 @@
 
 [20. Valid Parentheses](csharp/20/README.md)
 
+[32. Longest Valid Parentheses](csharp/3512/README.md)
+
 [412. Fizz Buzz](csharp/412/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
