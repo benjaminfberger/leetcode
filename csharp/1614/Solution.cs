@@ -1,7 +1,7 @@
 ﻿namespace csharp._1614
 {
     /// <summary>
-    /// Beats 100% of solutions with time complexity of O(n) and space complexity of O(1)
+    /// Beats 100% of submissions with time complexity of O(n) and space complexity of O(1)
     /// </summary>
     public class Solution
     {
