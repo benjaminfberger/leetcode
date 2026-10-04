@@ -1,15 +1,17 @@
 # My leetcode submissions
-[9. Palindrome Number](csharp/9/README.md)
+[9. Palindrome Number](csharp/0009/README.md)
 
-[13. Roman to Integer](chsarp/13/README.md)
+[13. Roman to Integer](chsarp/0013/README.md)
 
-[20. Valid Parentheses](csharp/20/README.md)
+[20. Valid Parentheses](csharp/0020/README.md)
 
-[32. Longest Valid Parentheses](csharp/3512/README.md)
+[32. Longest Valid Parentheses](csharp/0032/README.md)
 
-[412. Fizz Buzz](csharp/412/README.md)
+[125. Valid Palindrome](csharp/0125/README.md)
 
-[678. Valid Parenthesis String](csharp/678/README.md)
+[412. Fizz Buzz](csharp/0412/README.md)
+
+[678. Valid Parenthesis String](csharp/0678/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
