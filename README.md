@@ -9,6 +9,8 @@
 
 [412. Fizz Buzz](csharp/412/README.md)
 
+[678. Valid Parenthesis String](csharp/678/README.md)
+
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
