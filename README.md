@@ -27,6 +27,8 @@
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
 
-[3898. Find the Degree of Each Vertex](chsarp/3898/README.md)
+[3783. Mirror Distance of an Integer](csharp/3583/README.md)
+
+[3898. Find the Degree of Each Vertex](csharp/3898/README.md)
 
 [3925. Concatenate Array With Reverse](csharp/3925/README.md)
