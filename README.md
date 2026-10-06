@@ -9,6 +9,8 @@
 
 [125. Valid Palindrome](csharp/0125/README.md)
 
+[387. First Unique Character in a String](csharp/0387/README.md)
+
 [412. Fizz Buzz](csharp/0412/README.md)
 
 [678. Valid Parenthesis String](csharp/0678/README.md)
@@ -16,6 +18,8 @@
 [856. Score of Parentheses](csharp/0856/README.md)
 
 [921. Minimum Add to Make Parentheses Valid](csharp/0921/README.md)
+
+[1028. Recover a Tree From Preorder Traversal](csharp/1028/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
