@@ -15,6 +15,8 @@
 
 [856. Score of Parentheses](csharp/0856/README.md)
 
+[921. Minimum Add to Make Parentheses Valid](csharp/0921/README.md)
+
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
