@@ -1,6 +1,13 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="c/c.vcxproj" Id="5748d373-bd1c-4357-bde2-eaef495ba7dc" />
   <Project Path="csharp/csharp.csproj" />
   <Project Path="javascript/javascript.esproj">
+    <Platform Project="AnyCPU" />
     <Build />
     <Deploy />
   </Project>
