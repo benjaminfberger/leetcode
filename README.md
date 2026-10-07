@@ -19,6 +19,8 @@
 
 [921. Minimum Add to Make Parentheses Valid](csharp/0921/README.md)
 
+[933. Number of Recent Calls](csharp/0933/README.md)
+
 [1028. Recover a Tree From Preorder Traversal](csharp/1028/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
