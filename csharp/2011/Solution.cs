@@ -1,11 +1,10 @@
 ﻿namespace csharp._2011;
 
-public class Solution {
+public class Solution 
+{
     /// <summary>
     /// Beats 100% of submissions with time complexity of O(n) and space complexity of O(1)
     /// </summary>
-    /// <param name="operations"></param>
-    /// <returns></returns>
     public int FinalValueAfterOperations(string[] operations) 
     {
         int x = 0;
