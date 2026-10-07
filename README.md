@@ -27,6 +27,8 @@
 
 [1700. Number of Students Unable to Eat Lunch](csharp/1700/README.md)
 
+[2011. Final Value of Variable After Performing Operations](csharp/2011/README.md)
+
 [2235. Add Two Integers](c/2235/README.md)
 
 [2703. Return Length of Arguments Passed](javascript/2703/README.md)
