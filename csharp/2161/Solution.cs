@@ -3,7 +3,7 @@
 public class Solution 
 {
     /// <summary>
-    /// Beats 25.32% of solutions with time complexity of O(n) and space complexity of O(n)
+    /// Beats 25.32% of submissions with time complexity of O(n) and space complexity of O(n)
     /// </summary>
     public int[] PivotArray(int[] nums, int pivot) 
     {
