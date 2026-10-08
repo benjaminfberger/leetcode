@@ -1,4 +1,6 @@
-﻿namespace csharp._1021;
+﻿using System.Text;
+
+namespace csharp._1021;
 
 public class Solution 
 {
