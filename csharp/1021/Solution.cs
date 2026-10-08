@@ -7,8 +7,6 @@ public class Solution
     /// <summary>
     /// Beats 99.25% of solutions with time complexity of O(n) and space complexity of O(1)
     /// </summary>
-    /// <param name="s"></param>
-    /// <returns></returns>
     public string RemoveOuterParentheses(string s) 
     {
         var sb = new StringBuilder();
