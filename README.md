@@ -53,6 +53,8 @@
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
 
+[3668. Restore Finishing Order](csharp/3668/README.md)
+
 [3760. Maximum Substrings With Distinct Start](csharp/3760/README.md)
 
 [3783. Mirror Distance of an Integer](csharp/3583/README.md)
