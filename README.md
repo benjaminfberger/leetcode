@@ -55,6 +55,8 @@
 
 [3110. Score of a String](csharp/3110/README.md)
 
+[3190. Find Minimum Operations to Make All Elements Divisible by Three](csharp/3190/README.md)
+
 [3498. Reverse Degree of a String](csharp/3498/README.md)
 
 [3550. Smallest Index With Digit Sum Equal to Index](csharp/3550/README.md)
