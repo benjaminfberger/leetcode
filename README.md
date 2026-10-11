@@ -11,6 +11,8 @@
 
 [387. First Unique Character in a String](csharp/0387/README.md)
 
+[389. Find the Difference](csharp/0389/README.md)
+
 [412. Fizz Buzz](csharp/0412/README.md)
 
 [678. Valid Parenthesis String](csharp/0678/README.md)
