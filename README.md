@@ -45,6 +45,8 @@
 
 [2235. Add Two Integers](c/2235/README.md)
 
+[2469. Convert the Temperature](csharp/2469/README.md)
+
 [2703. Return Length of Arguments Passed](javascript/2703/README.md)
 
 [2769. Find the Maximum Achievable Number](csharp/2769/README.md)
@@ -70,3 +72,5 @@
 [3898. Find the Degree of Each Vertex](csharp/3898/README.md)
 
 [3925. Concatenate Array With Reverse](csharp/3925/README.md)
+
+[3945. Digit Frequency Score](csharp/3945/README.md)
