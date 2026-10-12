@@ -3,7 +3,7 @@
 public class Solution
 {
     /// <summary>
-    /// Beats 100% os submissions with time complexity of O(n) and space complexity of O(1)
+    /// Beats 100% of submissions with time complexity of O(n) and space complexity of O(1)
     /// </summary>
     public int MinimumOperations(int[] nums) 
     {
