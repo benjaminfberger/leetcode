@@ -65,6 +65,8 @@
 
 [3668. Restore Finishing Order](csharp/3668/README.md)
 
+[3727. Maximum Alternating Sum of Squares](csharp/3727/README.md)
+
 [3760. Maximum Substrings With Distinct Start](csharp/3760/README.md)
 
 [3783. Mirror Distance of an Integer](csharp/3583/README.md)
