@@ -1,4 +1,4 @@
-/**
+/*
  * Beats 36.23% of submissions with time complexity of O(1) and space complexity of O(n)
  */
 

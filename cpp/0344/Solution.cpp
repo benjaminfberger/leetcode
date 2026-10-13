@@ -4,7 +4,7 @@ class Solution
 {
     /*
      * Beats 100% os submissions with time complexity of O(n) and space complexity of O(1)
-    */
+     */
 public:
     void reverseString(std::vector<char>& s) 
     {
