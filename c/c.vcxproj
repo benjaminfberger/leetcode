@@ -150,6 +150,10 @@
   <ItemGroup>
     <Content Include="2235\README.md" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ClInclude Include="main.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
