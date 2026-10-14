@@ -69,6 +69,8 @@
 
 [3668. Restore Finishing Order](csharp/3668/README.md)
 
+[3723. Maximize Sum of Squares of Digits](cpp/3723/README.md)
+
 [3727. Maximum Alternating Sum of Squares](csharp/3727/README.md)
 
 [3760. Maximum Substrings With Distinct Start](csharp/3760/README.md)
