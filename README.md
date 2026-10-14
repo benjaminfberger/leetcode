@@ -7,6 +7,8 @@
 
 [27. Remove Element](cpp/0027/README.md)
 
+[28. Find the Index of the First Occurrence in a String](cpp/0028/README.md)
+
 [32. Longest Valid Parentheses](csharp/0032/README.md)
 
 [125. Valid Palindrome](csharp/0125/README.md)
