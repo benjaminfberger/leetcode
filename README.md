@@ -11,6 +11,8 @@
 
 [32. Longest Valid Parentheses](csharp/0032/README.md)
 
+[66. Plus One](cpp/0066/README.md)
+
 [125. Valid Palindrome](csharp/0125/README.md)
 
 [344. Reverse String](cpp/0344/README.md)
