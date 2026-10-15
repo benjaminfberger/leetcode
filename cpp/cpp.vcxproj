@@ -156,6 +156,7 @@
   <ItemGroup>
     <ClCompile Include="0027\Solution.cpp" />
     <ClCompile Include="0028\Solution.cpp" />
+    <ClCompile Include="0058\Solution.cpp" />
     <ClCompile Include="0066\Solution.cpp" />
     <ClCompile Include="0344\Solution.cpp" />
     <ClCompile Include="3723\Solution.cpp" />
@@ -164,6 +165,7 @@
   <ItemGroup>
     <Content Include="0027\README.md" />
     <Content Include="0028\README.md" />
+    <Content Include="0058\README.md" />
     <Content Include="0066\README.md" />
     <Content Include="0344\README.md" />
     <Content Include="3723\README.md" />
