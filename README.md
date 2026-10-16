@@ -25,6 +25,8 @@
 
 [412. Fizz Buzz](csharp/0412/README.md)
 
+[657. Robot Return to Origin](cpp/0657/README.md)
+
 [678. Valid Parenthesis String](csharp/0678/README.md)
 
 [682. Baseball Game](cpp/0682/README.md)
