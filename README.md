@@ -17,6 +17,8 @@
 
 [125. Valid Palindrome](csharp/0125/README.md)
 
+[242. Valid Anagram](csharp/0242/README.md)
+
 [344. Reverse String](cpp/0344/README.md)
 
 [387. First Unique Character in a String](csharp/0387/README.md)
