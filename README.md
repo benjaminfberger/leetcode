@@ -27,6 +27,8 @@
 
 [678. Valid Parenthesis String](csharp/0678/README.md)
 
+[682. Baseball Game](cpp/0682/README.md)
+
 [709. To Lower Case](csharp/0709/README.md)
 
 [856. Score of Parentheses](csharp/0856/README.md)
