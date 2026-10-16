@@ -55,6 +55,8 @@
 
 [1768. Merge Strings Alternately](csharp/1768/README.md)
 
+[1822. Sign of the Product of an Array](cpp/1822/README.md)
+
 [1920. Build Array from Permutation](csharp/1920/README.md)
 
 [2011. Final Value of Variable After Performing Operations](csharp/2011/README.md)
