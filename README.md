@@ -37,6 +37,8 @@
 
 [856. Score of Parentheses](csharp/0856/README.md)
 
+[896. Monotonic Array](cpp/0896/README.md)
+
 [921. Minimum Add to Make Parentheses Valid](csharp/0921/README.md)
 
 [933. Number of Recent Calls](csharp/0933/README.md)
