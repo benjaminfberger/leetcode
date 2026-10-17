@@ -49,6 +49,8 @@
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
+[1502. Can Make Arithmetic Progression From Sequence](cpp/1502/README.md)
+
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
 
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](csharp/1689/README.md)
