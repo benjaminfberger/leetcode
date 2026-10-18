@@ -11,6 +11,8 @@
 
 [32. Longest Valid Parentheses](csharp/0032/README.md)
 
+[43. Multiply Strings](cpp/0043/README.md)
+
 [50. Pow(x, n)](cpp/0050/README.md)
 
 [58. Length of Last Word](cpp/0058/README.md)
