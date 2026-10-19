@@ -71,6 +71,8 @@
 
 [2011. Final Value of Variable After Performing Operations](csharp/2011/README.md)
 
+[2089. Find Target Indices After Sorting Array](cpp/2089/README.md)
+
 [2161. Partition Array According to Given Pivot](csharp/2161/README.md)
 
 [2235. Add Two Integers](c/2235/README.md)

@@ -167,6 +167,7 @@
     <ClCompile Include="1275\Solution.cpp" />
     <ClCompile Include="1502\Solution.cpp" />
     <ClCompile Include="1822\Solution.cpp" />
+    <ClCompile Include="2089\Solution.cpp" />
     <ClCompile Include="3723\Solution.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
@@ -184,6 +185,7 @@
     <Content Include="1275\README.md" />
     <Content Include="1502\README.md" />
     <Content Include="1822\README.md" />
+    <Content Include="2089\README.md" />
     <Content Include="3723\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
