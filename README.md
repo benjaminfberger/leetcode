@@ -31,6 +31,8 @@
 
 [412. Fizz Buzz](csharp/0412/README.md)
 
+[459. Repeated Substring Pattern](cpp/0459/README.md)
+
 [657. Robot Return to Origin](cpp/0657/README.md)
 
 [678. Valid Parenthesis String](csharp/0678/README.md)
