@@ -19,6 +19,8 @@
 
 [66. Plus One](cpp/0066/README.md)
 
+[67. Add Binary](cpp/0067/README.md)
+
 [125. Valid Palindrome](csharp/0125/README.md)
 
 [242. Valid Anagram](csharp/0242/README.md)
