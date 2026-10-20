@@ -23,6 +23,8 @@
 
 [242. Valid Anagram](csharp/0242/README.md)
 
+[283. Move Zeroes](cpp/0283/README.md)
+
 [344. Reverse String](cpp/0344/README.md)
 
 [387. First Unique Character in a String](csharp/0387/README.md)
