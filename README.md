@@ -67,6 +67,8 @@
 
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
 
+[1672. Richest Customer Wealth](cpp/1672/README.md)
+
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](csharp/1689/README.md)
 
 [1700. Number of Students Unable to Eat Lunch](csharp/1700/README.md)
