@@ -65,6 +65,8 @@
 
 [1502. Can Make Arithmetic Progression From Sequence](cpp/1502/README.md)
 
+[1572. Matrix Diagonal Sum](cpp/1572/README.md)
+
 [1614. Maximum Nesting Depth of the Parentheses](csharp/1614/RADME.md)
 
 [1672. Richest Customer Wealth](cpp/1672/README.md)
