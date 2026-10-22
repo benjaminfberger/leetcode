@@ -63,6 +63,8 @@
 
 [1275. Find Winner on a Tic Tac Toe Game](cpp/1275/README.md)
 
+[1232. Check If It Is a Straight Line](cpp/1232/README.md)
+
 [1502. Can Make Arithmetic Progression From Sequence](cpp/1502/README.md)
 
 [1572. Matrix Diagonal Sum](cpp/1572/README.md)
