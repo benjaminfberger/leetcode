@@ -144,3 +144,5 @@
 [3945. Digit Frequency Score](csharp/3945/README.md)
 
 [4088. Difference Between Peaks and Valleys](cpp/4088/README.md)
+
+[4089. Count Subarrays With Loose Bounds](cpp/4089/README.md)
