@@ -99,6 +99,8 @@
 
 [2235. Add Two Integers](c/2235/README.md)
 
+[2409. Count Days Spent Together](csharp/2409/README.md)
+
 [2469. Convert the Temperature](csharp/2469/README.md)
 
 [2703. Return Length of Arguments Passed](javascript/2703/README.md)
