@@ -142,3 +142,5 @@
 [3925. Concatenate Array With Reverse](csharp/3925/README.md)
 
 [3945. Digit Frequency Score](csharp/3945/README.md)
+
+[4088. Difference Between Peaks and Valleys](cpp/4088/README.md)
