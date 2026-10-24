@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+    <Sdk Name="Microsoft.Build.Sql" Version="2.2.0"/>
+    <PropertyGroup>
+        <Name>mysql</Name>
+        <DSP>Microsoft.Data.Tools.Schema.Sql.Sql170DatabaseSchemaProvider</DSP>
+        <ModelCollation>1033, CI</ModelCollation>
+        <ProjectGuid>82E52C2F-99B0-452C-BB1B-CA3FAF865588</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+      <Content Include="1757\README.md" />
+    </ItemGroup>
+</Project>

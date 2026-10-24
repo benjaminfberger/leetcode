@@ -14,4 +14,7 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="mysql/mysql.sqlproj" Type="42ea0dbd-9cf1-443e-919e-be9c484e4577">
+    <Platform Project="AnyCPU" />
+  </Project>
 </Solution>

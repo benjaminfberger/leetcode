@@ -87,6 +87,8 @@
 
 [1700. Number of Students Unable to Eat Lunch](csharp/1700/README.md)
 
+[1757. Recyclable and Low Fat Products](mysql/1757/README.md)
+
 [1768. Merge Strings Alternately](csharp/1768/README.md)
 
 [1822. Sign of the Product of an Array](cpp/1822/README.md)
