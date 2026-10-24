@@ -183,6 +183,7 @@
     <ClCompile Include="3723\Solution.cpp" />
     <ClCompile Include="4088\Solution.cpp" />
     <ClCompile Include="4089\Solution.cpp" />
+    <ClCompile Include="4090\Solution.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -215,6 +216,7 @@
     <Content Include="3723\README.md" />
     <Content Include="4088\README.md" />
     <Content Include="4089\README.md" />
+    <Content Include="4090\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
