@@ -39,6 +39,8 @@
 
 [459. Repeated Substring Pattern](cpp/0459/README.md)
 
+[584. Find Customer Referee](mysql/0584/README.md)
+
 [605. Can Place Flowers](cpp/0605/README.md)
 
 [657. Robot Return to Origin](cpp/0657/README.md)

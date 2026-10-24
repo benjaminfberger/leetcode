@@ -8,6 +8,7 @@
         <ProjectGuid>82E52C2F-99B0-452C-BB1B-CA3FAF865588</ProjectGuid>
     </PropertyGroup>
     <ItemGroup>
+      <Content Include="0584\README.md" />
       <Content Include="1757\README.md" />
     </ItemGroup>
 </Project>
