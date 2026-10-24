@@ -23,6 +23,8 @@
 
 [125. Valid Palindrome](csharp/0125/README.md)
 
+[206. Reverse Linked List](cpp/0206/README.md)
+
 [242. Valid Anagram](csharp/0242/README.md)
 
 [283. Move Zeroes](cpp/0283/README.md)
