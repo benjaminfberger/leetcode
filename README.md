@@ -89,6 +89,8 @@
 
 [1672. Richest Customer Wealth](cpp/1672/README.md)
 
+[1683. Invalid Tweets](mysql/1683/README.md)
+
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](csharp/1689/README.md)
 
 [1700. Number of Students Unable to Eat Lunch](csharp/1700/README.md)

@@ -11,6 +11,7 @@
       <Content Include="0584\README.md" />
       <Content Include="0595\README.md" />
       <Content Include="1148\README.md" />
+      <Content Include="1683\README.md" />
       <Content Include="1757\README.md" />
     </ItemGroup>
 </Project>
