@@ -69,6 +69,8 @@
 
 [1041. Robot Bounded In Circle](cpp/1041/README.md)
 
+[1148. Article Views I](mysql/1148/README.md)
+
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
 
 [1275. Find Winner on a Tic Tac Toe Game](cpp/1275/README.md)
