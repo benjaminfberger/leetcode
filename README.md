@@ -41,6 +41,8 @@
 
 [584. Find Customer Referee](mysql/0584/README.md)
 
+[595. Big Countries](mysql/0595/README.md)
+
 [605. Can Place Flowers](cpp/0605/README.md)
 
 [657. Robot Return to Origin](cpp/0657/README.md)
