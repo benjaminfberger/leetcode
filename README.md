@@ -5,6 +5,8 @@
 
 [20. Valid Parentheses](csharp/0020/README.md)
 
+[21. Merge Two Sorted Lists](cpp/0021/README.md)
+
 [27. Remove Element](cpp/0027/README.md)
 
 [28. Find the Index of the First Occurrence in a String](cpp/0028/README.md)

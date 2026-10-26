@@ -154,6 +154,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="0021\Solution.cpp" />
     <ClCompile Include="0027\Solution.cpp" />
     <ClCompile Include="0028\Solution.cpp" />
     <ClCompile Include="0043\Solution.cpp" />
@@ -187,6 +188,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="0021\README.md" />
     <Content Include="0027\README.md" />
     <Content Include="0028\README.md" />
     <Content Include="0043\README.md" />
