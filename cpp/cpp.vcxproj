@@ -182,6 +182,7 @@
     <ClCompile Include="1822\Solution.cpp" />
     <ClCompile Include="2089\Solution.cpp" />
     <ClCompile Include="3723\Solution.cpp" />
+    <ClCompile Include="3898\Solution.cpp" />
     <ClCompile Include="3963\Solution.cpp" />
     <ClCompile Include="4088\Solution.cpp" />
     <ClCompile Include="4089\Solution.cpp" />
@@ -217,6 +218,7 @@
     <Content Include="1822\README.md" />
     <Content Include="2089\README.md" />
     <Content Include="3723\README.md" />
+    <Content Include="3898\README.md" />
     <Content Include="3963\README.md" />
     <Content Include="4088\README.md" />
     <Content Include="4089\README.md" />

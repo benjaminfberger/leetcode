@@ -147,6 +147,8 @@
 
 [3898. Find the Degree of Each Vertex](csharp/3898/README.md)
 
+[3898. Find the Degree of Each Vertex](cpp/3898/README.md)
+
 [3925. Concatenate Array With Reverse](csharp/3925/README.md)
 
 [3945. Digit Frequency Score](csharp/3945/README.md)
