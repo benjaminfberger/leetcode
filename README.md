@@ -127,6 +127,8 @@
 
 [2913. Subarrays Distinct Element Sum of Squares I](csharp/2913/README.md)
 
+[2942. Find Words Containing Character](cpp/2942/README.md)
+
 [3110. Score of a String](csharp/3110/README.md)
 
 [3190. Find Minimum Operations to Make All Elements Divisible by Three](csharp/3190/README.md)
