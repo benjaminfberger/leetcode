@@ -71,6 +71,8 @@
 
 [1041. Robot Bounded In Circle](cpp/1041/README.md)
 
+[1108. Defanging an IP Address](cpp/1108/README.md)
+
 [1148. Article Views I](mysql/1148/README.md)
 
 [1190. Reverse Substrings Between Each Pair of Parentheses](csharp/1190/README.md)
