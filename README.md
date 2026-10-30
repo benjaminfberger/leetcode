@@ -149,6 +149,8 @@
 
 [3783. Mirror Distance of an Integer](csharp/3583/README.md)
 
+[3838. Weighted Word Mapping](cpp/3838/README.md)
+
 [3898. Find the Degree of Each Vertex](csharp/3898/README.md)
 
 [3898. Find the Degree of Each Vertex](cpp/3898/README.md)
