@@ -55,6 +55,8 @@
 
 [709. To Lower Case](csharp/0709/README.md)
 
+[771. Jewels and Stones](csharp/0771/README.md)
+
 [856. Score of Parentheses](csharp/0856/README.md)
 
 [860. Lemonade Change](cpp/0860/README.md)
