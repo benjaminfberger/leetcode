@@ -5,7 +5,7 @@ namespace csharp._0771;
 public class Solution 
 {
     /// <summary>
-    /// Beats with time complexity of O(n*m) and space complexity of O(n+m)
+    /// Beats with 2.25% of submissions with time complexity of O(n*m) and space complexity of O(n+m)
     /// </summary>
     public int NumJewelsInStones(string jewels, string stones) 
     {
