@@ -1,4 +1,4 @@
-# My leetcode submissions
+# Leetcode submissions
 [9. Palindrome Number](csharp/0009/README.md)
 
 [13. Roman to Integer](chsarp/0013/README.md)
