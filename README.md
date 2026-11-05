@@ -83,6 +83,8 @@
 
 [1232. Check If It Is a Straight Line](cpp/1232/README.md)
 
+[1385. Find the Distance Value Between Two Arrays](cpp/1385/README.md)
+
 [1491. Average Salary Excluding the Minimum and Maximum Salary](cpp/1491/README.md)
 
 [1502. Can Make Arithmetic Progression From Sequence](cpp/1502/README.md)
